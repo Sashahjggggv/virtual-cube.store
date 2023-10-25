@@ -17,4 +17,4 @@ Disallow: /*.php
 Disallow: /*?replytocom
 Disallow: /*?turl
 
-Sitemap: https://aero3d.store/sitemap_index.xml
+Sitemap: https://virtual-cube.online/sitemap_index.xml
