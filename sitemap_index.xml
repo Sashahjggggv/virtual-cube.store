@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//aero3d.store/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//Virtual-Cube.store/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://aero3d.store/post-sitemap.xml</loc>
+		<loc>https://Virtual-Cube.store/post-sitemap.xml</loc>
 		<lastmod>2021-07-01T13:18:01+03:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://aero3d.store/page-sitemap.xml</loc>
+		<loc>https://Virtual-Cube.store/page-sitemap.xml</loc>
 		<lastmod>2021-11-11T12:19:41+02:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://aero3d.store/product-sitemap.xml</loc>
+		<loc>https://Virtual-Cube.store/product-sitemap.xml</loc>
 		<lastmod>2021-12-04T16:21:17+02:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://aero3d.store/promotions-sitemap.xml</loc>
+		<loc>https://Virtual-Cube.store/promotions-sitemap.xml</loc>
 		<lastmod>2021-07-21T15:17:15+03:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://aero3d.store/brand-sitemap.xml</loc>
+		<loc>https://Virtual-Cube.store/brand-sitemap.xml</loc>
 		<lastmod>2021-12-04T16:21:17+02:00</lastmod>
 	</sitemap>
 </sitemapindex>

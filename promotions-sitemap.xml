@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//aero3d.store/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//Virtual-Cube.store/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://aero3d.store/promotions/</loc>
+		<loc>https://Virtual-Cube.store/promotions/</loc>
 		<lastmod>2021-07-21T15:17:15+03:00</lastmod>
 	</url>
 	<url>
-		<loc>https://aero3d.store/promotions/samsung-coop-06/</loc>
+		<loc>https://Virtual-Cube.store/promotions/samsung-coop-06/</loc>
 		<lastmod>2021-07-21T15:17:15+03:00</lastmod>
 	</url>
 	<url>
-		<loc>https://aero3d.store/promotions/tovar-tyzhnya/</loc>
+		<loc>https://Virtual-Cube.store/promotions/tovar-tyzhnya/</loc>
 		<lastmod>2021-07-14T22:02:54+03:00</lastmod>
 	</url>
 	<url>
-		<loc>https://aero3d.store/promotions/wow-s21/</loc>
+		<loc>https://Virtual-Cube.store/promotions/wow-s21/</loc>
 		<lastmod>2021-07-14T21:59:41+03:00</lastmod>
 	</url>
 	<url>
-		<loc>https://aero3d.store/promotions/samsung-m12/</loc>
+		<loc>https://Virtual-Cube.store/promotions/samsung-m12/</loc>
 		<lastmod>2021-07-01T13:30:35+03:00</lastmod>
 	</url>
 </urlset>
